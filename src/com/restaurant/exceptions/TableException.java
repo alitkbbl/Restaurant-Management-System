@@ -1,0 +1,7 @@
+package com.restaurant.exceptions;
+
+public class TableException extends Exception {
+    public TableException(String message) {
+        super(message);
+    }
+}
