@@ -72,8 +72,8 @@ src/
 ```bash
     git clone https://github.com/your-username/restaurant-system.git
 ```
-2.   **Open in IDE: Open the project folder in IntelliJ IDEA.**
-3.   **Run: Navigate to src/com/restaurant/Main.java and run the main method.**
+1. **Open in IDE: Open the project folder in IntelliJ IDEA.**
+2. **Run: Navigate to src/com/restaurant/Main.java and run the main method.**
 
 ---
 
@@ -96,5 +96,5 @@ Select an option:
 
 1. Select `3` to occupy Table #1.
 2. Select `4` to add a "Burger" (Item ID: 101) to Table #1.
-3. Select `5` to checkout Table #1 and see the calculated bill.
+3. Select `5` to check out Table #1 and see the calculated bill.
 
